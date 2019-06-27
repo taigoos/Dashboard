@@ -36,9 +36,9 @@
     - [第三次迭代会议](iteration-3.md)(2018/05/04)
     - [第四次迭代会议](iteration-4.md)(2018/05/25)
     - [第五次迭代会议](iteration-5.md)(2018/06/15)
-* [X2 Tech/Work Report](X2-tech-work-report)
+* [X2 Tech/Work Report]
     - 16341016 - [原型设计工具 - 你好Axure](https://summer06.github.io/2018/04/15/Axure_basic/)
-    - 16341013 - [Git学习心得](https://shimo.im/docs/JOAZgvqyK3UwGylM/)
+    - 16341013 - [Git学习心得](tech-report-16341013.md)
     - 16341014 - [Django命令初探](https://shimo.im/docs/DmRw9G1F0rkDaEa3/)
     - 16341010- [Django数据库基本](https://shimo.im/docs/3uPetSpH37Mf19ae/)
     - 16341004 - [Vue.js入门](https://zack1005.github.io/2018/04/15/2018-4-13-Vue-js-Part1/)
