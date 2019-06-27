@@ -1,9 +1,10 @@
-﻿- Iteration 1 
-    - goals:
+# Iteration 1 
+
+   - goals:
         - 确定闲钱快的功能
         - 确定项目分工
         - 输出部分需求分析文档
-    - weeks 1
+   - weeks 1
         - 需求分析
             - task1：完成前期市场调研，产品定位分析，输出分析文档
             - task2：定义产品功能，输出产品backlog
