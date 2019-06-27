@@ -9,11 +9,11 @@
 * 4、[Vision](vision.md)（项目愿景）
 * 5、[Product Backlog](05-product-backlog)（产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 [Usecase Diagram](06-requirement-specification-1)（用例图）
+    - 6.1 [Usecase Diagram](UsecaseDiagram.md)（用例图）
     - 6.2 [Use Cases](Usecases.md)（用例+活动图）
-    - 6.3 [Domian Model](06-requirement-specification-3)（领域模型）
+    - 6.3 [Domian Model](DomianModel.md)（领域模型）
     - 6.4 [State Model](statemodel.md)（状态模型）
-    - 6.5 [System Sequence Diagram](06-requirement-specification-5)（功能模型）
+    - 6.5 [System Sequence Diagram](SystemSequenceDiagram.md)（功能模型）
     - 6.6 [Supplementary Requirements](06-requirement-specification-6) (补充需求)
 * 7、Design（设计）
     - 7.1 [UI design](07-design-1)
