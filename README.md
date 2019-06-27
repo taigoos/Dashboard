@@ -3,20 +3,20 @@
 
 &nbsp;&nbsp; 
 
-* 1、[About](about.md)（项目规划）
-* 2、[Team profile](团队组建与分工.md)（团队组建）
-* 3、[Investigation](investigation.md)（项目前期调研）
-* 4、[Vision](vision.md)（项目愿景）
-* 5、[Product Backlog](ProductBacklog.md)（产品特性）
+* 1、[About](01-about.md)（项目规划）
+* 2、[Team profile](02-Team-profile.md)（团队组建）
+* 3、[Investigation](03-investigation.md)（项目前期调研）
+* 4、[Vision](04-vision.md)（项目愿景）
+* 5、[Product Backlog](05-Product-Backlog.md)（产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 [Usecase Diagram](UsecaseDiagram.md)（用例图）
-    - 6.2 [Use Cases](Usecases.md)（用例+活动图）
-    - 6.3 [Domian Model](DomainModel.md)（领域模型）
-    - 6.4 [State Model](statemodel.md)（状态模型）
-    - 6.5 [System Sequence Diagram](SystemSequenceDiagram.md)（功能模型）
-    - 6.6 [Supplementary Requirements](06-requirement-specification-6) (补充需求)
+    - 6.1 [Usecase Diagram](06-01-Usecase-Diagram.md)（用例图）
+    - 6.2 [Use Cases](06-02-Use-cases.md)（用例+活动图）
+    - 6.3 [Domian Model](06-03-domain-model.md)（领域模型）
+    - 6.4 [State Model](06-04-state-model.md)（状态模型）
+    - 6.5 [System Sequence Diagram](06-05-System-Sequence-Diagram.md)（功能模型）
+    - 6.6 [Supplementary Requirements](06-06-Supplementary-Requirements.md) (补充需求)
 * 7、Design（设计）
-    - 7.1 [UI design](07-design-1)
+    - 7.1 [UI design](07-01-UI-design.md)
         - 闲钱快用例 UI设计
     - 7.2 [Database design](07-design-2)
         - 7.2.1 用户及权限系统数据库设计
@@ -31,17 +31,17 @@
     - 8.3 [逻辑架构到应用程序映射指南](08-code-rules-and-guide-3)
     - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用](08-code-rules-and-guide-4)
 * X1 meet_recording
-    - [inception meeting](X1-meeting-record1) (2018/03/23)
-    - [第二次迭代会议](X1-meeting-record2)(2018/04/12)
-    - [第三次迭代会议](X1-meeting-record3)(2018/05/04)
-    - [第四次迭代会议](X1-meeting-record4)(2018/05/25)
-    - [第五次迭代会议](X1-meeting-record5)(2018/06/15)
-* [X2 Tech/Work Report](X2-tech-work-report)
-    - 16341016 - [原型设计工具 - 你好Axure](https://summer06.github.io/2018/04/15/Axure_basic/)
-    - 16341013 - [Git学习心得](https://shimo.im/docs/JOAZgvqyK3UwGylM/)
-    - 16341014 - [Django命令初探](https://shimo.im/docs/DmRw9G1F0rkDaEa3/)
-    - 16341010- [Django数据库基本](https://shimo.im/docs/3uPetSpH37Mf19ae/)
-    - 16341004 - [Vue.js入门](https://zack1005.github.io/2018/04/15/2018-4-13-Vue-js-Part1/)
+    - [inception meeting](X1-iteration-1.md)
+    - [第二次迭代会议](X1-iteration-2.md)
+    - [第三次迭代会议](X1-iteration-3.md)
+    - [第四次迭代会议](X1-iteration-4.md)
+    - [第五次迭代会议](X1-iteration-5.md)
+* [X2 Tech/Work Report]
+    - 16341016 - 
+    - 16341013 - [Git学习心得](X2-tech-report-16341013.md)
+    - 16341014 - 
+    - 16341010- 
+    - 16341004 - 
 * X3 Final Report
     - [X3 Final Report - 16341016](final-report/16341016.md)
     - [X3 Final Report - 16341013](final-report/16341013.md)
@@ -49,8 +49,8 @@
     - [X3 Final Report - 16341010](final-report/16341010.md)
     - [X3 Final Report - 16341004](final-report/16341004.md)
 * XX 建模练习
-    - [XX1 Forest应用](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/XX1-Forest%E5%BA%94%E7%94%A8.pdf)
-    - [XX2 建模例图](XX2_Modeling_Practice)
-    - [XX1 建模答案及评价](XX3_Answer_Judgement)
+    - [XX1 Forest应用]()
+    - [XX2 建模例图]()
+    - [XX1 建模答案及评价]()
 
 
