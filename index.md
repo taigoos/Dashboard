@@ -4,16 +4,16 @@
 &nbsp;&nbsp; 
 
 * 1、[About](about.md)（项目规划）
-* 2、[Team profile](Teamprofile.md)（团队组建）
+* 2、[Team profile](Team-profile.md)（团队组建）
 * 3、[Investigation](investigation.md)（项目前期调研）
 * 4、[Vision](vision.md)（项目愿景）
-* 5、[Product Backlog](ProductBacklog.md)（产品特性）
+* 5、[Product Backlog](Product-Backlog.md)（产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 [Usecase Diagram](UsecaseDiagram.md)（用例图）
-    - 6.2 [Use Cases](Usecases.md)（用例+活动图）
-    - 6.3 [Domian Model](DomainModel.md)（领域模型）
+    - 6.1 [Usecase Diagram](Usecase-Diagram.md)（用例图）
+    - 6.2 [Use Cases](Use-cases.md)（用例+活动图）
+    - 6.3 [Domian Model](domain-model.md)（领域模型）
     - 6.4 [State Model](statemodel.md)（状态模型）
-    - 6.5 [System Sequence Diagram](SystemSequenceDiagram.md)（功能模型）
+    - 6.5 [System Sequence Diagram](System-Sequence-Diagram.md)（功能模型）
     - 6.6 [Supplementary Requirements](06-requirement-specification-6) (补充需求)
 * 7、Design（设计）
     - 7.1 [UI design](07-design-1)
@@ -31,11 +31,11 @@
     - 8.3 [逻辑架构到应用程序映射指南](08-code-rules-and-guide-3)
     - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用](08-code-rules-and-guide-4)
 * X1 meet_recording
-    - [inception meeting](iteration1.md) (2018/03/23)
-    - [第二次迭代会议](iteration2.md)(2018/04/12)
-    - [第三次迭代会议](iteration3.md)(2018/05/04)
-    - [第四次迭代会议](iteration4.md)(2018/05/25)
-    - [第五次迭代会议](iteration5.md)(2018/06/15)
+    - [inception meeting](iteration-1.md) (2018/03/23)
+    - [第二次迭代会议](iteration-2.md)(2018/04/12)
+    - [第三次迭代会议](iteration-3.md)(2018/05/04)
+    - [第四次迭代会议](iteration-4.md)(2018/05/25)
+    - [第五次迭代会议](iteration-5.md)(2018/06/15)
 * [X2 Tech/Work Report](X2-tech-work-report)
     - 16341016 - [原型设计工具 - 你好Axure](https://summer06.github.io/2018/04/15/Axure_basic/)
     - 16341013 - [Git学习心得](https://shimo.im/docs/JOAZgvqyK3UwGylM/)
