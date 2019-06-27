@@ -29,7 +29,7 @@
          - 7.5.2 [任务发布者支付报酬用例](07-05-use-cases-design-2.md)  
 * 8、生产规范与指南
     - 8.1 [闲钱快代码规范](08-code-rules-and-guide-1)
-    - 8.2 [REST API 设计规范](08-code-rules-and-guide-2)
+    - 8.2 REST API 设计规范
     - 8.3 [逻辑架构到应用程序映射指南](08-code-rules-and-guide-3)
     - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用](08-code-rules-and-guide-4)
 * X1 meet_recording
