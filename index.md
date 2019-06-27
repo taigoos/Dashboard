@@ -28,10 +28,10 @@
          - 7.5.1 [用户接取任务用例](07-05-use-cases-design-1.md)
          - 7.5.2 [任务发布者支付报酬用例](07-05-use-cases-design-2.md)  
 * 8、生产规范与指南
-    - 8.1 [闲钱快代码规范](08-code-rules-and-guide-1)
+    - 8.1 [闲钱快代码规范](08-01-code-rules-and-guide.md)
     - 8.2 REST API 设计规范
     - 8.3 [逻辑架构到应用程序映射指南]
-    - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用]
+    - 8.4 [物理架构云上部署文件编写与使用]
 * X1 meet_recording
     - [inception meeting](X1-iteration-1.md)
     - [第二次迭代会议](X1-iteration-2.md)
@@ -41,7 +41,7 @@
 * [X2 Tech/Work Report]
     - 16341016 - 
     - 16341013 - [Git学习心得](X2-tech-report-16341013.md)
-    - 16341014 - [Django命令初探](X2-tech-report-16341014.md)
+    - 16341014 - 
     - 16341010- 
     - 16341004 - [用例建模心得](X2-tech-report-16341004.md)
 * X3 Final Report
