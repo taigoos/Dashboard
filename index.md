@@ -5,8 +5,8 @@
 
 * 1、[About](about.md)（项目规划）
 * 2、[Team profile](02-team-profile)（团队组建）
-* 3、[Investigation](03-investigation)（项目前期调研）
-* 4、[Vision](04-vision)（项目愿景）
+* 3、[Investigation](investigation.md)（项目前期调研）
+* 4、[Vision](vision.md)（项目愿景）
 * 5、[Product Backlog](05-product-backlog)（产品特性）
 * 6、Requirement specification（需求规格说明）
     - 6.1 [Usecase Diagram](06-requirement-specification-1)（用例图）
