@@ -43,7 +43,7 @@
     - 16341013 - [Git学习心得](X2-tech-report-16341013.md)
     - 16341014 - 
     - 16341010- 
-    - 16341004 - [用例建模心得]()
+    - 16341004 - [用例建模心得](X2-tech-report-16341004.md)
 * X3 Final Report
     - [X3 Final Report - 16341016](final-report/16341016.md)
     - [X3 Final Report - 16341013](final-report/16341013.md)
