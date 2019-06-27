@@ -1,6 +1,6 @@
-Django命令初探
+# Django命令初探
 
-1、新建一个 django project
+## 1.新建一个 django project
 
 - django-admin.py startproject project_name
 
@@ -28,7 +28,9 @@ python manage.py makemigrations
 
 - 2. 将生成的py文件应用到数据库
 
+```
 python manage.py migrate
+```
  
 旧版本的Django 1.6及以下用
 
