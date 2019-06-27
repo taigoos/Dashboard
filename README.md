@@ -4,16 +4,16 @@
 &nbsp;&nbsp; 
 
 * 1、[About](about.md)（项目规划）
-* 2、[Team profile](02-team-profile)（团队组建）
+* 2、[Team profile](团队组建与分工.md)（团队组建）
 * 3、[Investigation](investigation.md)（项目前期调研）
 * 4、[Vision](vision.md)（项目愿景）
-* 5、[Product Backlog](05-product-backlog)（产品特性）
+* 5、[Product Backlog](ProductBacklog.md)（产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 [Usecase Diagram](06-requirement-specification-1)（用例图）
+    - 6.1 [Usecase Diagram](UsecaseDiagram.md)（用例图）
     - 6.2 [Use Cases](Usecases.md)（用例+活动图）
-    - 6.3 [Domian Model](06-requirement-specification-3)（领域模型）
-    - 6.4 [State Model](06-requirement-specification-4)（状态模型）
-    - 6.5 [System Sequence Diagram](06-requirement-specification-5)（功能模型）
+    - 6.3 [Domian Model](DomainModel.md)（领域模型）
+    - 6.4 [State Model](statemodel.md)（状态模型）
+    - 6.5 [System Sequence Diagram](SystemSequenceDiagram.md)（功能模型）
     - 6.6 [Supplementary Requirements](06-requirement-specification-6) (补充需求)
 * 7、Design（设计）
     - 7.1 [UI design](07-design-1)
@@ -43,11 +43,11 @@
     - 16341010- [Django数据库基本](https://shimo.im/docs/3uPetSpH37Mf19ae/)
     - 16341004 - [Vue.js入门](https://zack1005.github.io/2018/04/15/2018-4-13-Vue-js-Part1/)
 * X3 Final Report
-    - [X3 Final Report - 16341016](X3-Final-Report-16341016)
-    - [X3 Final Report - 16341013](X3-Final-Report-16341013)
-    - [X3 Final Report - 16341014](X3-Final-Report-16341014)
-    - [X3 Final Report - 16341010](X3-Final-Report-16341010)
-    - [X3 Final Report - 16341004](X3-Final-Report-16341004)
+    - [X3 Final Report - 16341016](final-report/16341016.md)
+    - [X3 Final Report - 16341013](final-report/16341013.md)
+    - [X3 Final Report - 16341014](final-report/16341014.md)
+    - [X3 Final Report - 16341010](final-report/16341010.md)
+    - [X3 Final Report - 16341004](final-report/16341004.md)
 * XX 建模练习
     - [XX1 Forest应用](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/XX1-Forest%E5%BA%94%E7%94%A8.pdf)
     - [XX2 建模例图](XX2_Modeling_Practice)
