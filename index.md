@@ -23,8 +23,8 @@
         - 7.2.2 闲钱快子系统数据课设计 
         - 7.2.3 第三方数据评审结果
     - 7.3 API 设计
-    - 7.4 [Software Architecture Document]
-    - 7.5 [Usecase design]
+    - 7.4 [Software Architecture Document]()
+    - 7.5 Usecase design
          - 7.5.1 [用户接取任务用例](07-05-use-cases-design-1.md)
          - 7.5.2 [任务发布者支付报酬用例](07-05-use-cases-design-2.md)  
 * 8、生产规范与指南
