@@ -30,8 +30,8 @@
 * 8、生产规范与指南
     - 8.1 [闲钱快代码规范](08-01-code-rules-and-guide.md)
     - 8.2 REST API 设计规范
-    - 8.3 [逻辑架构到应用程序映射指南]
-    - 8.4 [物理架构云上部署文件编写与使用]
+    - 8.3 [逻辑架构到应用程序映射指南]()
+    - 8.4 [物理架构云上部署文件编写与使用]()
 * X1 meet_recording
     - [inception meeting](X1-iteration-1.md)
     - [第二次迭代会议](X1-iteration-2.md)
