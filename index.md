@@ -31,11 +31,11 @@
     - 8.3 [逻辑架构到应用程序映射指南](08-code-rules-and-guide-3)
     - 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用](08-code-rules-and-guide-4)
 * X1 meet_recording
-    - [inception meeting](X1-iteration-1.md) (2018/03/23)
-    - [第二次迭代会议](X1-iteration-2.md)(2018/04/12)
-    - [第三次迭代会议](X1-iteration-3.md)(2018/05/04)
-    - [第四次迭代会议](X1-iteration-4.md)(2018/05/25)
-    - [第五次迭代会议](X1-iteration-5.md)(2018/06/15)
+    - [inception meeting](X1-iteration-1.md)
+    - [第二次迭代会议](X1-iteration-2.md)
+    - [第三次迭代会议](X1-iteration-3.md)
+    - [第四次迭代会议](X1-iteration-4.md)
+    - [第五次迭代会议](X1-iteration-5.md)
 * [X2 Tech/Work Report]
     - 16341016 - 
     - 16341013 - [Git学习心得](X2-tech-report-16341013.md)
