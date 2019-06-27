@@ -21,7 +21,7 @@
     - 7.2 [Database design](07-design-2)
         - 7.2.1 用户及权限系统数据库设计
         - 7.2.2 闲钱快子系统数据课设计 
-        - 7.2.x 第三方数据评审结果
+        - 7.2.3 第三方数据评审结果
     - 7.3 API 设计
     - 7.4 [Software Architecture Document](07-design-4)
     - 7.5 [Usecase design](07-design-5)  
