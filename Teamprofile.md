@@ -10,12 +10,12 @@
 
 **2、团队成员与分工**
 
-学号 | Github |岗位角色 |
--|-|-
-16341004|gongjxgjx|
-16341010|lio      |
-16341013|luzace   |
-16341014|sysutaigu|
-16341016|16341016 |
+学号 | Github |昵称|岗位角色 |
+-|-|-|-
+16341004|gongjxgjx|gongjxgjx|项目经理、架构师、Java工程师
+16341010|lio      |lio|JS工程师、UI/UX设计师，测试工程师
+16341013|luzace   |luzace|Java工程师，JS工程师，数据库DBA
+16341014|sysutaigu|sysutaigu|开发工程师、测试工程师
+16341016|16341016 |16341016|Architect、JS工程师
 
 
