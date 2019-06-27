@@ -26,7 +26,7 @@
     - 7.4 [Software Architecture Document](07-design-4)
     - 7.5 [Usecase design](07-design-5)  
          - 7.5.1 [用户接取任务用例](07-05-use-cases-design-1.md)
-         - 7.5.2 [发布任务用例](07-05-use-cases-design-2.md)  
+         - 7.5.2 [任务发布者支付报酬用例](07-05-use-cases-design-2.md)  
 * 8、生产规范与指南
     - 8.1 [闲钱快代码规范](08-code-rules-and-guide-1)
     - 8.2 [REST API 设计规范](08-code-rules-and-guide-2)
