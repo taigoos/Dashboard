@@ -41,7 +41,7 @@
 * [X2 Tech/Work Report]
     - 16341016 - 
     - 16341013 - [Git学习心得](X2-tech-report-16341013.md)
-    - 16341014 - 
+    - 16341014 - [Django命令初探](X2-tech-report-16341014.md)
     - 16341010- 
     - 16341004 - [用例建模心得](X2-tech-report-16341004.md)
 * X3 Final Report
