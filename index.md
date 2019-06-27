@@ -4,7 +4,7 @@
 &nbsp;&nbsp; 
 
 * 1、[About](about.md)（项目规划）
-* 2、[Team profile](团队组建与分工.md)（团队组建）
+* 2、[Team profile](Teamprofile.md)（团队组建）
 * 3、[Investigation](investigation.md)（项目前期调研）
 * 4、[Vision](vision.md)（项目愿景）
 * 5、[Product Backlog](ProductBacklog.md)（产品特性）
