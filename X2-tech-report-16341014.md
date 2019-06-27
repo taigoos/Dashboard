@@ -8,7 +8,7 @@
 
 project_name 是自己的项目名称，需要为合法的 Python 包名，如不能为 1a 或 a-b。
 
-2、新建app
+## 2、新建app
 
 要先进入项目目录下，cd project_name 然后执行下面的命令（下同，已经在项目目录下则不需要 cd project_name）
 
@@ -20,7 +20,7 @@ python manage.py startapp app_name
 
 与项目名类似 app name 也需要为合法的 Python 包名，如 blog，news, aboutus 等都是合法的 app 名称。
 
-3、创建数据库表 或 更改数据库表或字段
+## 3、创建数据库表 或 更改数据库表或字段
 
 Django 1.7.1及以上 用以下命令# 1. 创建更改的文件
 
@@ -38,7 +38,7 @@ python manage.py syncdb
 
 这种方法可以在SQL等数据库中创建与models.py代码对应的表，不需要自己手动执行SQL。
 
-4、使用开发服务器
+## 4、使用开发服务器
 
 开发服务器，即开发时使用，一般修改代码后会自动重启，方便调试和开发，但是由于性能问题，建议只用来测试，不要用在生产环境。
 
@@ -60,13 +60,13 @@ python manage.py runserver 0.0.0.0:8000
 
 访问对应的 ip加端口，比如 http://172.16.20.2:8000
 
-5、清空数据库
+## 5、清空数据库
 
 python manage.py flush
 
 此命令会询问是 yes 还是 no, 选择 yes 会把数据全部清空掉，只留下空表。
 
-6、创建超级管理员
+## 6、创建超级管理员
 
 python manage.py createsuperuser 
 
@@ -76,11 +76,11 @@ python manage.py createsuperuser
 
 python manage.py changepassword username
 
-7、导出数据 导入数据
+## 7、导出数据 导入数据
 
 python manage.py dumpdata appname > appname.jsonpython manage.py loaddata appname.json
 
-8、Django 项目环境终端
+## 8、Django 项目环境终端
 
 python manage.py shell
 
@@ -88,7 +88,7 @@ python manage.py shell
 
 这个命令和 直接运行 python 或 bpython 进入 shell 的区别是：你可以在这个 shell 里面调用当前项目的 models.py 中的 API，对于操作数据，还有一些小测试非常方便。
 
-9、数据库命令行
+## 9、数据库命令行
 
 
 python manage.py dbshell
@@ -96,6 +96,6 @@ python manage.py dbshell
 Django 会自动进入在settings.py中设置的数据库，如果是 MySQL 或 postgreSQL,会要求输入数据库用户密码。
 
 在这个终端可以执行数据库的SQL语句。如果您对SQL比较熟悉，可能喜欢这种方式。
-10、更多命令
+## 10、更多命令
 
 终端上输入 python manage.py 可以看到详细的列表。
