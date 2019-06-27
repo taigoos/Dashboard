@@ -1,2 +1,2 @@
 # 状态模型
-![](statemodel.png)
+![](IMAGE/statemodel.png)
