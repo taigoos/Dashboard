@@ -14,7 +14,7 @@
     - 6.3 [Domian Model](06-03-domain-model.md)（领域模型）
     - 6.4 [State Model](06-04-state-model.md)（状态模型）
     - 6.5 [System Sequence Diagram](06-05-System-Sequence-Diagram.md)（功能模型）
-    - 6.6 [Supplementary Requirements](06-requirement-specification-6) (补充需求)
+    - 6.6 [Supplementary Requirements](06-06-Supplementary-Requirements.md) (补充需求)
 * 7、Design（设计）
     - 7.1 [UI design](07-01-UI-design.md)
         - 闲钱快用例 UI设计
